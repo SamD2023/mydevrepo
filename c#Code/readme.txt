@@ -1,0 +1,1 @@
+This directory is dedicated for C# coding activities
